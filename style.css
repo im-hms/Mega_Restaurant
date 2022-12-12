@@ -1413,14 +1413,6 @@ footer .fot_container h2::before{
 }
 
 
-
-
-
-
-
-
-
-/* ================== My Query =================   */
 @media screen and (max-width: 1100px) {
   .quote__main {
     width: 103%;
